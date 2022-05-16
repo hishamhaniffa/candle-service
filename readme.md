@@ -1,4 +1,4 @@
-# App - candle serice
+# App - candle service
 
 # Server
 Writted in nodejs with express for API out. Using redis for cache and websocket client to read stream data
